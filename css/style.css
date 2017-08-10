@@ -190,5 +190,6 @@ footer {
 	#tag p {
 		width: 40%;
 		background: transparent;
+		font-weight: normal;
 	}
 }
