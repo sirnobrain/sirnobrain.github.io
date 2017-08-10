@@ -67,7 +67,7 @@ h1, h2, h3, h4, h5, h6, p, a {
 	color: #FAFAFA;
 }
 #main-container {
-	background: url('../img/bg.jpg'); /*https://static.pexels.com/photos/147635/pexels-photo-147635.jpeg-license: creative common*/
+	background: url('../img/bg-resized.jpg'); /*https://static.pexels.com/photos/147635/pexels-photo-147635.jpeg-license: creative common*/
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 100%;
